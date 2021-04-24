@@ -1,0 +1,8 @@
+name: MinecraftInMinecraft
+version: ${project.version}
+main: matthewa.minecraftinminecraft.MinecraftInMinecraft
+api-version: 1.16
+description: Streams a screen to a minecraft world
+commands:
+  StartServer:
+    description: Starts the webserver
